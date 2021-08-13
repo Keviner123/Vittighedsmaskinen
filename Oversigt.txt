@@ -1,0 +1,5 @@
+Min løsning har 2 endpoints
+/api/GetRandomJoke - Hent en tilfældig joke
+/api/SetPreferredCategoryId - Sæt hvilken kategori af jokes der skal vises
+
+I headeren bruger jeg feltet Content-Language: til at vælge sproget som jokesne skal have og x-api-key til at sætte API key
